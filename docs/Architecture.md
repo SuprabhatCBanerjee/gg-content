@@ -582,17 +582,3 @@ Avoid heavy joins:
 
 ---
 
-## Gathering Results
-
-- Verify no double booking
-- Load test (concurrent seat booking)
-- Monitor latency
-- Payment success/failure handling
-- User experience validation
-
----
-
-## Need Professional Help in Developing Your Architecture?
-
-Please contact me at https://sammuti.com :)
-

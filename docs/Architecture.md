@@ -315,7 +315,7 @@ Booking Service -> DB: Save booking
 ### Conventions
 - Base URL: `/api/v1`
 - Auth: `Authorization: Bearer <JWT>`
-- Idempotency: `Idempotency-Key` header for booking/payment पुष्टि
+- Idempotency: `Idempotency-Key` header for booking/payment 
 - Standard response:
 ```
 {

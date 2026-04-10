@@ -12,8 +12,9 @@ public class UserModel {
     private String userEmail;
     private String userPhone;
     private String userPasswordHash;
-    private String userLocation;//changes required
+    private UserLocationModel userLocation = null;
     private String userImage;
+    private String userInterest;
 
     public UserModel(String userName, String userEmail, String userPhone, String userPasswordHash) {
         this.userName = userName;
